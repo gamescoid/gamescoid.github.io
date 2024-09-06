@@ -63,6 +63,11 @@ a {
 }
 img, video {max-width:100%;}
 
+.article-post img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
 
 .item-card .categories {
     position: absolute;
