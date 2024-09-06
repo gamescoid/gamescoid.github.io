@@ -10,7 +10,7 @@ Choosing the right vehicle insurance is crucial for financial protection and pea
 
 {% include ads2.html %}
 
-![title image](/assets/images/Insurance3.jfif)
+![Insurance](/assets/images/Insurance3.jfif)
 
 ## Step 1: Identify Your Coverage Needs
 
