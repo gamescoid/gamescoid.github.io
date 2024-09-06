@@ -10,7 +10,7 @@ Selecting the right vehicle insurance policy is crucial for both financial prote
 
 {% include ads2.html %}
 
-[Insurance]{/assets/images/Insurance2.webp}
+![Insurance]{/assets/images/Insurance2.webp}
 
 ## 1. Determine Your Coverage Requirements
 
