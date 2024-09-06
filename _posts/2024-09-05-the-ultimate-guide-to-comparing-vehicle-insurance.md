@@ -3,9 +3,12 @@ layout: post
 title:  "The Ultimate Guide to Comparing Vehicle Insurance | Save Money and Get the Best Coverage"
 author: Summer
 categories: [ Insurance ]
-image: assets/images/coconutchiaresize.png
+image: assets/images/insurance1.jfif
 ---
 Choosing the right vehicle insurance can be a daunting task, but with the right approach, you can save money and ensure you get the best coverage for your needs. This guide will walk you through the essential steps and factors to consider when comparing vehicle insurance policies.
+
+
+![Insurance](/assets/images/insurance1.jfif)
 
 ## 1. Understand Your Coverage Needs
 
