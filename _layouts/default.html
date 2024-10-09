@@ -93,7 +93,7 @@ layout: compress
                   </li>
                 {% else %}
                   <li class="nav-item">
-                    <a class="nav-link px-3 {% if link.class %}{{link.class}}{% endif %}" onclick="tooglespeed(); return false" href="{% unless link.external %}{{site.baseurl}}/{% endunless %}{{link.url}}" alt="{{link.title}}">{{link.title}}</a>
+                    <div class="nav-link px-3 {% if link.class %}{{link.class}}{% endif %}" onclick="tooglespeed(); return false" alt="{{link.title}}">{{link.title}}</div>
                   </li>
                 {% endif %}
               {% endfor %}
