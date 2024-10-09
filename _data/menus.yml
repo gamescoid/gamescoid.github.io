@@ -39,7 +39,7 @@ topmenu:
   url: "contact/"
 
 - title: 🖱️ AutoScroll
-  url: https://www.twitch.tv/summerislive
+  onclick: "tooglespeed(); return false"
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
