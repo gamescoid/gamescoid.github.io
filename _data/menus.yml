@@ -38,6 +38,9 @@ topmenu:
 - title: Contact
   url: "contact/"
 
+- title: Contact
+  url: "contact/"
+  
 - title: Watch Live
   url: https://www.twitch.tv/summerislive
   class: "ml-2 btn btn-dark text-white px-3"
