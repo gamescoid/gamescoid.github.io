@@ -38,11 +38,6 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: 🖱️ AutoScroll
-  onclick: "tooglespeed(); return false"
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-
 # Footer Menu
 footermenu:
 
