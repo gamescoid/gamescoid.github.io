@@ -92,9 +92,7 @@ layout: compress
                     </ul>
                   </li>
                 {% else %}
-                  <li class="nav-item">
-                    <div class="nav-link px-3 {% if link.class %}{{link.class}}{% endif %}" onclick="tooglespeed(); return false" alt="{{link.title}}">{{link.title}}</div>
-                  </li>
+<li class="nav-item"> <div class="nav-link px-3 ml-2 btn btn-dark text-white px-3" onclick="tooglespeed(); return false" alt="🖱️ AutoScroll">🖱️ AutoScroll</div> </li>
                 {% endif %}
               {% endfor %}
             </ul>
@@ -104,6 +102,8 @@ layout: compress
       </nav>
     </div>  
     
+    <div class='speedtb'> <div id='speednav' style='background:#424242;padding:10px 0 10px 5px;float:right;display:none;width: 30px;border-radius: 5px;'> <ul style="margin: 0;"> <li style='list-style-type: none;border: 0px;margin-left: -40px;color: #CCC;font-size: 12px;font-weight: 500;text-align: center;width: 20px;margin-bottom: 0px;margin-top: -10px;'>Fast</li><li class='speedbar' id='speed5' onclick='startit(5);' onmouseout='resetBg();' onmouseover='this.style.cursor=&#39;pointer&#39;;changeBg(5);' style='background:#999;width:20px;'></li><li class='speedbar' id='speed4' onclick='startit(4);' onmouseout='resetBg();' onmouseover='this.style.cursor=&#39;pointer&#39;;changeBg(4);' style='background:#aaa;width:20px;'></li><li class='speedbar' id='speed3' onclick='startit(3);' onmouseout='resetBg();' onmouseover='this.style.cursor=&#39;pointer&#39;;changeBg(3);' style='background:#bbb;width:20px;'></li><li class='speedbar' id='speed2' onclick='startit(2);' onmouseout='resetBg();' onmouseover='this.style.cursor=&#39;pointer&#39;;changeBg(2);' style='background:#ccc;width:20px;'></li><li class='speedbar' id='speed1' onclick='startit(1);' onmouseout='resetBg();' onmouseover='this.style.cursor=&#39;pointer&#39;;changeBg(1);' style='background:#ddd;width:20px;'></li><li class='speedbar' onclick='stopit();' onmouseover='this.style.cursor=&#39;pointer&#39;;' style=' font-family: arial; font-size: 7pt; color: #fff; text-align: center; width: 20px; height: 12px; cursor: pointer; background: #ff0000; border-radius: 3px;'>stop</li></ul> </div><div id='speedtoogle' onclick='tooglespeed()' onmouseout='this.style.backgroundColor=&#39;transparent;&#39;;' onmouseover='this.style.backgroundColor=&#39;transparent;&#39;;this.style.cursor=&#39;pointer&#39;;' style='float:right;background:transparent;'></div></div>
+
 <div style="clear:both;"></div>
     
 <!-- Container
