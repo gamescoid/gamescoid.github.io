@@ -1,59 +1,46 @@
 ---
 layout: post
-title: "AMD’s Initial Pricing Leaks Reveal Ambitious Plans for Radeon RX 9070 XT & RX 9070"
-description: "Leaks from a Bulgarian retailer suggest AMD initially planned higher prices for the Radeon RX 9070 series GPUs, despite unexpected performance expectations."
-slug: amd-initial-pricing-radeon-rx-9070-xt
-image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitlDttcWmt4JTvyfRMigWIYu5cwPijguCNZi5WSYzQaLHa4qIzoeIcA8Zh-Ek_ckUANHt0EHnyZcmGz5EA9FVUaHZ-xS8XIuiG-xiEUHVC1ayWbrPbUaVTMhTIjjftyIopBPyy4v4g9Lw4G0JRsN2rYas2Kzt26Wds6Bn7q9XDG6SqwYlUdM07gX-rUbM/s600/RX-9070-XT-728x410.png
-categories: [technology, tech, GPUs, AMD]
-tags: [AMD, Radeon RX 9070 XT, RDNA 4, GPU, pricing, PowerColor, leaks, CES, NVIDIA]
-author: pierrelepagnol
+title: "DLSS Swapper Receives Major Update: Now Supports FSR 3.1, XeSS, and More"
+description: "The latest updates to DLSS Swapper v1.1 and v1.1.1 introduce support for AMD's FSR 3.1, Intel's XeSS, and additional features for game upscaling."
+slug: "dlss-swapper-update-fsr-3-1-xess"
+image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw61TenS3qhhyphenhyphenS6Icx_efeSgkVGZteag9RxbkaQ0PtvzmihzE3i1251ZOtbEbnWOnfLc67CXs-vD3M81Si3ua25CEBq2RAhjJVCcjDHRAsvfnLr4qr32Ocuqvn3qfdLlLUbNUaStDKMTf3T6n1Rcb6mRkyfoBvPrDg6pG3gQiEp6qXZt9EP0yzXDP2u48v/s728/DLSS-Swapper-v1-728x410.jpg
+categories: [news]
+tags: [DLSS, FSR 3.1, XeSS, Gaming, Upscaling, Technology]
+author: loichermann
 ---
 
 <div style="text-align: center;">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitlDttcWmt4JTvyfRMigWIYu5cwPijguCNZi5WSYzQaLHa4qIzoeIcA8Zh-Ek_ckUANHt0EHnyZcmGz5EA9FVUaHZ-xS8XIuiG-xiEUHVC1ayWbrPbUaVTMhTIjjftyIopBPyy4v4g9Lw4G0JRsN2rYas2Kzt26Wds6Bn7q9XDG6SqwYlUdM07gX-rUbM/s600/RX-9070-XT-728x410.png" alt="AMD’s Initial Pricing Leaks Reveal Ambitious Plans for Radeon RX 9070 XT & RX 9070">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw61TenS3qhhyphenhyphenS6Icx_efeSgkVGZteag9RxbkaQ0PtvzmihzE3i1251ZOtbEbnWOnfLc67CXs-vD3M81Si3ua25CEBq2RAhjJVCcjDHRAsvfnLr4qr32Ocuqvn3qfdLlLUbNUaStDKMTf3T6n1Rcb6mRkyfoBvPrDg6pG3gQiEp6qXZt9EP0yzXDP2u48v/s728/DLSS-Swapper-v1-728x410.jpg" alt="DLSS Swapper Receives Major Update: Now Supports FSR 3.1, XeSS, and More">
 </div>
 
-### AMD's Ambitious Initial Pricing for Radeon RX 9070 XT and RX 9070 Revealed
+The DLSS Swapper tool has received a significant update with the release of versions v1.1 and v1.1.1, introducing support for AMD's FSR 3.1, Intel's XeSS, and XeSS Frame Generation DLL files. This update expands the tool's functionality, allowing users to easily swap and update DLL files for various upscaling technologies.
 
 {% include ads/post1.html %}
 
-As AMD's highly anticipated **Radeon RX 9070 XT** and **RX 9070** GPUs continue to build hype, a **Bulgarian retailer** has leaked intriguing details about the initial pricing strategy for these upcoming RDNA 4-based graphics cards. According to the retailer’s report, AMD originally planned to price the **RX 9070 XT** at **$899** and the **RX 9070** at **$749**—prices that might seem questionable given the rumored performance of these cards.
+### What’s New in DLSS Swapper v1.1?
 
-#### Early Leaks and Delay Drama
+The v1.1 release brings major enhancements to the DLSS Swapper tool, which was initially designed to allow users to manage NVIDIA DLSS DLL files. Now, the software has expanded its support to include other popular upscaling technologies, notably AMD's FSR 3.1 and Intel's XeSS. Users can now update and swap DLL files for these technologies, provided the game in question supports them.
 
-AMD board partners have already received their initial batch of **Radeon RX 9070 series GPUs**, but due to an extended embargo, they are prohibited from selling or revealing detailed information about the cards. However, a recent leak from the **Bulgarian retailer** provides insight into what AMD's early pricing strategy might have looked like.
+If you're unfamiliar with DLSS Swapper, it's an open-source tool developed by 'beeradmoore' that enables users to manually update or downgrade the DLSS version in supported games. Unlike NVIDIA's official app, which automatically updates the game files, DLSS Swapper gives users more control over which version of DLSS is applied, including the ability to update FSR and XeSS files.
 
-<div style="text-align: center;">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyhl17dNSnfQPjc_BzzeVAy4iDLObrXY0kG2dMqsIIjBgZiKtVY5xjnfmCET8o9oQ9YwMgxR4BU2rO4gyvGVE4c58sBVE4G9qXnpQjtnHqHF88ExDP_5Yfb3_IK3Sf6B48xVmQRhWlQtf0lFc9i-rg7ppjn3yUuCfrLL56p-LM_Ah0NAPLIl40TnqL9w8/s600/Bulgarian-retailer-RX-9070-XT.png" alt="Bulgarian retailer RX 9070 XT">
-</div>
+### Key Features of Version 1.1
 
-In a YouTube video, the retailer showcased the **PowerColor Red Devil Radeon RX 9070 XT**—a version of the GPU that PowerColor previously revealed at **CES**. Despite the official specs and pricing being under wraps, the retailer hinted that AMD had originally planned to position the **RX 9070 XT** to compete with the **RX 7900 XT**, setting its price at **$899**. Meanwhile, the **RX 9070** was expected to be priced at **$749**.
+Some of the standout features of DLSS Swapper v1.1 include:
 
-#### The Price-Performance Puzzle
+- **Support for FSR 3.1 and XeSS**: You can now easily swap out DLL files for AMD’s FidelityFX Super Resolution (FSR) 3.1 and Intel’s XeSS technologies, assuming the game supports these methods.
+- **XeSS Frame Generation**: Added support for swapping XeSS Frame Generation DLLs, enhancing the performance and quality of supported games.
+- **Manual Game Addition**: Users can now manually add games that aren't listed in the standard installer paths, increasing the flexibility of the tool.
+- **DLSS Frame Generation and Ray Reconstruction**: Swapping DLL files for these advanced features is now supported.
+- **Additional UI Features**: New options, such as the ability to change game cover art, add notes, and several other minor improvements.
 
-Given that the **RX 9070** is rumored to offer slightly better performance than the **RX 7900 XT**, many are questioning the logic behind such a pricing strategy. If true, the suggested prices appear oddly inflated, especially when compared to competing products from **NVIDIA**.
-
-AMD’s delay in launching the **RX 9070** series, originally scheduled for late January but pushed to March, has likely been influenced by the need for further **software optimizations**. However, it's clear that AMD is working to refine its pricing strategy as the launch date approaches.
-
-#### A Competitive Price Point?
-
-<div style="text-align: center;">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnCsGElZqdy_kZ1Ez4VCbISY22ulugYXWFIR4vQVxBrozj67pct9AlKNGvN3uO8hh3uU_pnQWfxQkjZcTHPonbnQ4pKfn4dv0KEnjCI5TpC-EnYA6yli4IZg5h2JA81W4d1q9SrzHgt3OT-ghPyrcoFR1LluApjXQOzAqjzTbQE2nv6KFnoT4cxEx9j0/s600/ASUS-Prime-Radeon-RX-9070.jpg" alt="ASUS Prime Radeon RX 9070">
-</div>
-
-AMD’s **Frank Azor** previously mentioned that the company wants the **70-class RX GPUs** to compete head-to-head with **NVIDIA’s 70-class cards**—such as the **RTX 5070 Ti** and **RTX 5070**. These cards are priced at **$749** and **$549**, respectively, suggesting that AMD might price the **RX 9070 XT** and **RX 9070** more competitively—likely at or below **NVIDIA's price range**.
+### Updates in Version 1.1.1
 
 {% include ads/post2.html %}
 
-Interestingly, the **RX 9070 XT** has been spotted in some recent leaks at a more reasonable price of **$529** for a **Gigabyte edition**, which challenges earlier pricing speculation. However, since these early listings can be speculative, the final launch prices are still uncertain.
+Following v1.1, the v1.1.1 update brings smaller but important fixes. It addresses several bugs, including issues related to launching games and the user interface. The developer is still working on resolving minor glitches, such as duplicate listings and a bug that prevents manually added games from displaying their DLL files.
 
-#### What’s Next for AMD’s Radeon RX 9070 Series?
+### Why Is DLSS Swapper Important?
 
-With AMD’s March launch looming, the company has a narrow window to finalize pricing and ensure it aligns with market expectations. The **Radeon RX 9070 XT** and **RX 9070** are poised to be strong contenders in the GPU market, but whether they can effectively compete with **NVIDIA’s RTX 50 series** depends largely on their final performance and price points.
+DLSS Swapper has become a go-to tool for gamers who want to take control of their upscaling settings. With the addition of support for technologies like FSR 3.1 and XeSS, the tool has expanded its value to a wider audience, offering flexibility for users to test and swap upscaling technologies from multiple providers.
 
-The rumors and leaks certainly make for an exciting buildup, but **AMD fans** will have to wait until March for confirmation on official pricing and the full specs of these next-gen GPUs.
-
----
-
-
-
+For gamers looking to experiment with different upscaling technologies or troubleshoot compatibility issues, DLSS Swapper is an invaluable tool. The latest versions, v1.1 and v1.1.1, can be downloaded from GitHub, where you can find all the latest updates and features.
