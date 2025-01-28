@@ -23,6 +23,8 @@ This release marks a major milestone for the *Virtua Fighter* franchise, introdu
 
 ### Key Features of Virtua Fighter 5 R.E.V.O:
 
+<div class="responsive-video-wrap"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/wKDD80JCv_o" width="560"></iframe></div>
+
 - **Rollback Netcode**: A much-requested feature that enhances online play by reducing lag and improving overall stability.
 - **60fps and 4K Resolution Support**: Enjoy fast-paced, fluid gameplay with stunning visuals on modern hardware.
 - **Classic Game Modes**: Play through well-loved modes like Arcade, Ranked Matches, and the newly revamped online tournament feature, which supports up to 16 players.
