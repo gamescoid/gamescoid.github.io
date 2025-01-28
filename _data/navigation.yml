@@ -4,20 +4,20 @@ topmenu:
   url: '/'
 - title: News
   url: '/category/news'
-- title: Education
-  url: '/category/education'
-- title: Technology
-  url: '/category/technology'
-- title: Health
-  url: '/category/health'
-- title: Travel
-  url: '/category/travel'
-- title: Entertainment
-  url: '/category/entertainment'
+- title: Games
+  url: '/category/games'
+- title: Hardware
+  url: '/category/hardware'
+- title: Mobile
+  url: '/category/mobile'
+- title: Deals
+  url: '/category/deals'
+- title: Finance
+  url: '/category/finance'
 - title: Menu
   sublinks:
-    - title: Finance
-      url: '/category/finance' 
+    - title: Reviews
+      url: '/category/reviews' 
 
 # Nav Menu
 navmenu:
