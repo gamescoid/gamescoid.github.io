@@ -15,6 +15,8 @@ author: loichermann
 
 **Virtua Fighter 5 R.E.V.O. Debuts on Steam with Enhanced Features and Launch Discount**
 
+{% include ads/post1.html %}
+
 Sega has officially launched *Virtua Fighter 5 R.E.V.O.* on Steam today, bringing the iconic fighting game to PC for the first time. Priced at £15.99, players can enjoy a 20% discount during the launch period.
 
 This release marks a major milestone for the *Virtua Fighter* franchise, introducing significant updates that will elevate the experience for both new players and long-time fans. Notably, the game now features rollback netcode for smoother online play, along with "the first new balance adjustments in over 13 years." Sega has touted this as the "definitive fighting experience," perfect for anyone looking to challenge their skills in high-stakes martial arts combat.
@@ -32,6 +34,8 @@ Sega promises that *Virtua Fighter 5 R.E.V.O.* offers the most comprehensive and
 ### 30th Anniversary Edition - Special Content for Fans
 
 In addition to the standard version, the *30th Anniversary Edition* of *Virtua Fighter 5 R.E.V.O.* is also available for £39.99 with the same 20% discount. This special edition includes a wealth of exclusive content:
+
+{% include ads/post2.html %}
 
 - **30th Anniversary Soundtrack Collection**: Over 200 unreleased tracks from the series’ history.
 - **Exclusive Artbook**: Detailed sketches and concept art from the original game's pre-production.
