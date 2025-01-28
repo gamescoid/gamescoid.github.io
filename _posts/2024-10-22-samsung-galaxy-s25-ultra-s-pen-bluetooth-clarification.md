@@ -4,7 +4,7 @@ title: "Samsung Clarifies S Pen Functionality for Galaxy S25 Ultra: No Bluetooth
 description: "Samsung has addressed confusion surrounding the Galaxy S25 Ultra's S Pen, confirming it will not support Bluetooth functionality as initially suggested."
 slug: samsung-galaxy-s25-ultra-s-pen-bluetooth-clarification
 image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwbzoPG4KHRP4nWaYhubAAZF1vTOTYPetZOnr0FPq5p8xVjA1zNbTj7oKEeL9xLOeLkOxx-wGVeMJSS7qgFhx8dFTv67WRIYRDNEmEHigwugeyA_8Xhuj2IvS2MU8sm6kMGHZUqe4df2WAeQj0PDHMkVSnqTjRG9w08WeI7N6VeniPDYJ35v4jMeNuhMf1/s320/Galaxy-S25-Ultra-with-S-Pen-728x473.jpg
-categories: [Mobile]
+categories: [mobile]
 tags: ["Samsung", "Galaxy S25 Ultra", "S Pen", "Bluetooth", "Smartphones"]
 author: loichermann
 ---
